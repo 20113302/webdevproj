@@ -1,0 +1,94 @@
+body{
+    background: white;
+}
+
+nav{
+    color: white;
+    background: rebeccapurple;
+    text-decoration-color: white;
+}
+
+nav ul li a {
+    color: white;
+}
+ul.navbar{
+     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+li.navbar{
+    display: inline;
+    color: white;
+    background: rebeccapurple;
+}
+table.music{
+    table-layout: auto;
+    text-align: center;
+    border: 3px solid black; border-collapse: collapse;
+}
+td.music{
+     border: 3px solid black; border-collapse: collapse;
+}
+<th.music{
+     border: 3px solid black; border-collapse: collapse;
+}
+
+h1{
+    color: white;
+    background-color: rebeccapurple;
+    
+}
+
+ul {
+	list-style-type: circle;
+}
+
+h3{
+    font-size: 18px;
+    font-style: normal;
+    text-underline-position: left;
+}
+p{
+    font-family: sans-serif;
+    font-size: 14px;
+
+}
+address{
+    font-size: 110%;
+    
+}
+
+blockquote{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p.notwhite{
+    font-weight: bold;
+    color: black;
+}
+
+p.notpink{
+    font-style:italic;
+    font-size: 50%;
+}
+
+p.hood{
+    background-color: #341539;
+    color: white;
+    
+}
+h1.important{
+    font-size: 250%;
+    
+    
+}
+li.special{
+    font-style: italic;
+    list-style: decimal;
+}
+a.husky {
+    font-style:italic;
+    font-size: 50%;
+}
